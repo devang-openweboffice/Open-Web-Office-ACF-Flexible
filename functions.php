@@ -38,7 +38,6 @@ foreach($includes_files as $filename){
 $class_files = array(
     'class-openweboffice-svg-icons.php',
 	'class-openweboffice-customize.php',
-	'class-openweboffice-separator-control.php',
 	'class-openweboffice-walker-page.php',
 	'class-openweboffice-walker-comment.php',    
 	'class-openweboffice-script-loader.php',
