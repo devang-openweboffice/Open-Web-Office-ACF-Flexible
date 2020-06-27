@@ -4,8 +4,6 @@ Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Default theme for 2020.
-
 == Description ==
 
 Our default theme for ACF Pro Flexible Content layouts is designed to take full advantage of the 
