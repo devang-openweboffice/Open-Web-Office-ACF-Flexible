@@ -32,16 +32,16 @@ You can follow the steps mentioned here in local or hosting server.
 Please go thorugh the steps here: https://wordpress.org/support/article/how-to-install-wordpress/
 
 2. Installing a WordPress ACF Flexible Starter theme
-In WordPress add and active any theme by below two steps:
 
-1. Download and unzip the theme package from my GitHub URL: 
-2. Log in to your WordPress Dashboard (i.e.: examplesite.com/wp-admin or localhost/wp-admin)
-3. Click on Appearance > Themes
-4. On the Themes page, click the Add New button on the top of the page
-5. Click the Upload Theme button
-6. Choose the [themename].zip from your theme package download from my GitHub URL.
-7. Press the Install Now button
-8. Back on the Themes page, click on Activate
+In WordPress add and active any theme by below two steps:
+	Ø Download and unzip the theme package from my GitHub URL: 
+	Ø Log in to your WordPress Dashboard (i.e.: examplesite.com/wp-admin or localhost/wp-admin)
+	Ø Click on Appearance > Themes
+	Ø On the Themes page, click the Add New button on the top of the page
+	Ø Click the Upload Theme button
+	Ø Choose the [themename].zip from your theme package download from my GitHub URL.
+	Ø Press the Install Now button
+	Ø Back on the Themes page, click on Activate
 
 Or you can pull my theme in Github to the wp-content/themes using GIT commands.
 
