@@ -42,6 +42,7 @@ $class_files = array(
 	'class-openweboffice-walker-comment.php',    
 	'class-openweboffice-script-loader.php',
 	'class-openweboffice-non-latin-languages.php',
+	'class-openweboffice-separator-control.php',
 	'class-openweboffice-acf-missing.php',
 	'class-openweboffice-acf-theme-functions.php',	
 );
